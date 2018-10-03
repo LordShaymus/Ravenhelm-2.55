@@ -1,0 +1,28 @@
+Archetype: Guard Raider
+HP: 200
+Max HP: 200
+
+Strength: 15
+Defense: 15
+Magic: 45
+Resistance: 13
+Constitution: 14
+Speed: 20
+Skill: 30
+Limit: 10
+Intelligence: 15
+Instinct: 30
+Luck: 15
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+-- Magic Type --
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:

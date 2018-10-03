@@ -1,0 +1,29 @@
+Archetype: PC
+HP: 80
+Max HP: 80
+
+Strength: 12
+Defense: 10
+Magic: 1
+Force: 11
+Resistance: 10
+Constitution: 10
+Speed: 10
+Skill: 10
+Limit: 14
+Intelligence: 10
+Instinct: 10
+Luck: 8
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+-- Magic Type --
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:

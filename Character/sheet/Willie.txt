@@ -1,0 +1,40 @@
+Archetype: PC
+HP: 470
+Max HP: 470
+
+Strength: 30
+Defense: 30
+Magic: 28
+Resistance: 23
+Constitution: 25
+Speed: 18
+Skill: 21 
+Limit: 20 
+Intelligence: 30
+Instinct: 13
+Luck: 16
+
+-- Hand To Hand Training --
+Chop Suey
+Wrestling
+
+-- Weapon Training --
+Staves
+Two Handed Sword
+Whip
+Bizzare
+
+-- Magic Type --
+Fire
+Curse
+
+-- Equipment --
+Hat:
+Armor: XIII+1 Armor
+Accessory 1: Red Ring
+Accessory 2: Willow Ring
+Accessory 3:
+
+-- Resistance --
+Fire: 50
+Ice: 50

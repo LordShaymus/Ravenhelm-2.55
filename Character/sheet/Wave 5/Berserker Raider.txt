@@ -1,0 +1,29 @@
+Level: 5
+Archetype: Berserker Raider
+HP: 300
+Max HP: 300
+
+Strength: 35
+Defense: 30 
+Magic: 0
+Resistance: 15
+Constitution: 100 
+Speed: 15
+Skill: 25
+Limit: 10
+Intelligence: 8
+Instinct: 15
+Luck: 15
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+-- Magic Type --
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:

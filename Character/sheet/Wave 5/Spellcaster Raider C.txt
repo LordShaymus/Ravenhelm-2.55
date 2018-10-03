@@ -1,0 +1,30 @@
+Level: 5
+Archetype: Spellcaster Raider
+HP: 250
+Max HP: 250
+
+Strength: 15
+Defense: 15 
+Magic: 33
+Resistance: 23
+Constitution: 35 
+Speed: 20
+Skill: 20
+Limit: 10
+Intelligence: 25
+Instinct: 22
+Luck: 20
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+
+-- Magic Type --
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:

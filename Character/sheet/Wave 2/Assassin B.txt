@@ -1,0 +1,32 @@
+Level: 5
+Archetype: Assassin Raider
+HP: 200
+Max HP: 200
+
+Strength: 20
+Defense: 20
+Magic: 15
+Resistance: 30
+Constitution: 50
+Speed: 35
+Skill: 40
+Limit: 10
+Intelligence: 10
+Instinct: 45
+Luck: 10
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+-- Magic Type --
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:
+
+-- Resistance --
+Acid: 100

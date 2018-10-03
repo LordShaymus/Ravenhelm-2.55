@@ -1,0 +1,44 @@
+Level: 10
+Archetype: Raider
+HP: 400
+Max HP: 400
+
+Strength: 15
+Defense: 15 
+Magic: 25
+Resistance: 55
+Constitution: 50
+Speed: 20
+Skill: 50
+Limit: 12
+Intelligence: 13
+Instinct: 60
+Luck: 10
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+-- Magic Type --
+
+-- Equipment --
+Hat: Zircon Headband
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:
+
+-- Resistance --
+Fire: 0
+Water: 0
+Earth: 0
+Wind: 0
+Ice: 0
+Electricity: 0
+Poison: 100
+Acid: 0
+Slag: 0
+Holy: 0
+Curse: 0
+ESP: 0
+Other: 0

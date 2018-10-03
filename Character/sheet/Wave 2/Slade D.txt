@@ -1,0 +1,29 @@
+Level: 10
+Archetype: Raider Lord Assassin
+HP: 450
+Max HP: 450
+
+Strength: 15
+Defense: 25
+Magic: 30
+Resistance: 25
+Constitution: 50
+Speed: 35
+Skill: 40
+Limit: 10
+Intelligence: 10
+Instinct: 45
+Luck: 10
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+-- Magic Type --
+
+-- Equipment --
+Hat: Assassin Headband
+Armor: Assassin Leather Jacket
+Accessory 1: Combat Boots
+Accessory 2: 
+Accessory 3:

@@ -1,0 +1,35 @@
+Archetype: PC
+HP: 233
+Max HP: 233
+LP: 0/0
+Condition: Normal
+Gold: 170
+
+Strength: 18 
+Defense: 19
+Magic: 18 
+Resistance: 17
+Constitution: 15
+Speed: 18 
+Skill: 18
+Limit: 15
+Intelligence: 15 
+Instinct: 15
+Luck: 18
+
+-- Hand To Hand Training --
+Close Quarter
+
+-- Weapon Training --
+Crossbow
+Knife
+
+-- Magic Type --
+ESP
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:

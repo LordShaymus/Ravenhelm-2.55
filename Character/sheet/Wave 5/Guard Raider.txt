@@ -1,0 +1,30 @@
+Level: 5
+Archetype: Spellcaster Guard
+HP: 250
+Max HP: 250
+
+Strength: 25
+Defense: 20 
+Magic: 12
+Resistance: 23
+Constitution: 15 
+Speed: 25
+Skill: 30
+Limit: 15
+Intelligence: 20
+Instinct: 18
+Luck: 15
+
+-- Hand To Hand Training --
+
+-- Weapon Training --
+
+
+-- Magic Type --
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:

@@ -1,0 +1,52 @@
+Level: 5
+Archetype: Raider Lord
+HP: 600
+Max HP: 600
+
+Strength: 50
+Defense: 30
+Magic: 0
+Force: 20
+Resistance: 25
+Constitution: 100
+Speed: 20
+Skill: 20
+Limit: 10
+Intelligence: 15
+Instinct: 15
+Luck: 20
+
+-- Hand To Hand Training --
+Ying Zhao Pai
+
+-- Weapon Training --
+Flails
+One Handed Sword
+Knife
+Chakram
+
+-- Magic Type --
+Support
+ESP
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:
+
+-- Resistance --
+Fire: 50
+Water: 50
+Earth: 50
+Wind: 50
+Ice: 50
+Electricity: 50
+Poison: 50
+Acid: 50
+Slag: 50
+Holy: 50
+Curse: 50
+ESP: 50
+Other: 50

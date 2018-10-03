@@ -1,0 +1,34 @@
+Archetype: PC
+Level: 10
+HP: 416
+Max HP: 416
+
+Strength: 24
+Defense: 30
+Force: 20
+Magic: 0
+Resistance: 25
+Constitution: 15
+Speed: 12
+Skill: 30
+Limit: 30
+Intelligence: 20
+Instinct: 30
+Luck: 10
+
+-- Hand To Hand Trainin --
+Wrestling
+
+-- Weapon Training --
+All
+
+-- Magic Type --
+
+-- Resistance --
+
+-- Equipment --
+Hat: Chainmail Helm
+Armor: Hellknight Suit
+Accessory 1: Coin of Slumber
+Accessory 2: Champion's Brace
+Accessory 3: Pendant

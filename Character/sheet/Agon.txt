@@ -1,0 +1,50 @@
+Level: 5
+Archetype: PC
+HP: 450
+Max HP: 450
+
+Strength: 40
+Defense: 30
+Magic: 30
+Resistance: 25
+Constitution: 20
+Speed: 24
+Skill: 30
+Limit: 33
+Intelligence: 28
+Instinct: 16
+Luck: 22
+
+-- Hand To Hand Training --
+Wrestling
+
+-- Weapon Training --
+Hammer
+Axe
+Gaunlet
+Crossbow
+
+-- Magic Type --
+Acid
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1:
+Accessory 2:
+Accessory 3:
+
+-- Resistance --
+Fire: 0
+Water: 0
+Earth: 0
+Wind: 0
+Ice: 0
+Electricity: 0
+Poison: 0
+Acid: 100
+Slag: 0
+Holy: 0
+Curse: 0
+ESP: 0
+Other: 0

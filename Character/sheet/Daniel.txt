@@ -1,0 +1,52 @@
+Archetype: Prick
+Level: 5
+HP: 190
+Max HP: 190
+
+EXP: 10,000
+Next Level: 16,000
+
+Strength: 15
+Defense: 12
+Magic: 6
+Resistance: 7
+Constitution: 11
+Speed: 18
+Skill: 20
+Limit: 13
+Intelligence: 12
+Instinct: 13
+Luck: 15
+
+-- Hand To Hand Training --
+Close Quarter Combat
+
+-- Weapon Training --
+Crossbow
+One Handed Sword
+Axe
+
+-- Magic Type --
+
+
+-- Equipment --
+Hat:
+Armor:
+Accessory 1: Evil Eye Necklace
+Accessory 2:
+Accessory 3:
+
+-- Resistance --
+Fire: 0
+Water: 0
+Earth: 0
+Wind: 0
+Ice: 0
+Electricity: 0
+Poison: 0
+Acid: 0
+Slag: 0
+Holy: 0
+Curse: 0
+ESP: 0
+Other: 0

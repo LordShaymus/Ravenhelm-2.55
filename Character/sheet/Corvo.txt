@@ -1,0 +1,36 @@
+Archetype: PC
+HP: 340
+Max HP: 340
+
+Strength: 18
+Defense: 18
+Magic: 30
+Resistance: 20
+Constitution: 23
+Speed: 19
+Skill: 19
+Limit: 18
+Intelligence: 22
+Instinct: 23
+Luck: 17
+
+-- Hand To Hand Training --
+Dirty Fighting
+
+-- Weapon Training --
+One Handed Sword
+Knife
+Staves
+
+-- Magic Type --
+Curse
+
+-- Equipment --
+Hat:
+Armor: Light Black Robe
+Accessory 1:
+Accessory 2:
+Accessory 3:
+
+-- Resistance --
+Poison: 50

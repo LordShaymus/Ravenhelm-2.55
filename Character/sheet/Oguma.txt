@@ -1,0 +1,41 @@
+Archetype: PC
+HP: 412
+Max HP: 412
+
+Strength: 12
+Defense: 10
+Magic: 25
+Resistance: 16
+Constitution: 15
+Speed: 39
+Skill: 25
+Limit: 30
+Intelligence: 30
+Instinct: 30
+Luck: 30
+
+-- Hand To Hand Training --
+Capoeira
+
+-- Weapon Training --
+Bizzare
+Staves
+Blunt
+Gaunlet
+
+-- Magic Type --
+Poison
+Ice
+
+-- Limit Abilites --
+Mire
+
+-- Equipment --
+Hat:
+Armor: Arrow-Proof Vest
+Accessory 1: 
+Accessory 2: Worn Leather Jacket
+Accessory 3: Leather Glove
+
+-- Resistance --
+Poison: 100
